@@ -1,10 +1,6 @@
 # DBMS project- Hotel Franchise
 Data and application project
 
-By TEAM
-* Kurukunda Bhargavi
-* Pamulapati Pallavi
-* Greeshma Amaraneni
 
 ## What is this project about ?
 We have implemented a database for a Hotel Franchise containing a total of five hotels and are dealing with the data related to this Franchise. To get a better overview of our Database have look at the **ER diagram, Relational model diagram and the Requirements PDF** all the three uploaded above.
